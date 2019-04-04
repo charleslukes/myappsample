@@ -15,7 +15,7 @@ Learning to collaborate can be confusing sometime and it might be useful to make
 ## The Ignored files
 ---
 Some files are not relevent for some people base on their development enviroment, etc
-### List Of Ignored Files
+### *List Of Ignored Files*
 1. DS_Store
 1. AppleDouble
 1. (More to be added)
